@@ -10,3 +10,5 @@ This problem were approached in 3 different ways.
 2. Multi-layer Perceptron (MLP) - 57.44% training accuracy, 58.59% validation accuracy, 52.24% test accuracy
 3. Custom built Convolutional Neural Network(CNN) - 96.77% training accuracy, 92.44% validation accuracy, 92.67% test accuracy
 
+
+Data Source: http://madm.dfki.de/downloads
