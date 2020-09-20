@@ -1,5 +1,5 @@
 # land-use-classification-sentinel-2-images
-Land Use Classification - Sentinel 2 satellite images (27k images, 10 class)
+Land Use Classification - Sentinel 2 satellite images (27k RGB images, 10 class)
 
 ## This notebook is just for me to discover and try concepts and methods learnt from online courses and might contain mistakes and substandard practices.
 
