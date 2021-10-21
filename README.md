@@ -3,7 +3,7 @@ Land Use Classification - Sentinel 2 satellite images (27k 64x64 RGB images, 10 
 
 ## This notebook is just for me to discover and try concepts and methods learnt from online courses and might contain mistakes and substandard practices.
 
-I would be really thankful if you could provide your feedback on this work. :D
+I would be really thankful if you could provide your feedback on this work. :D <br>
 The initial 27k images were split into 3 sets. Training (70%), Validation (15%), and Test (15%).
 The initial split of test data were performed using simple python script while the validation split was performed using ImageDataGenerator built-in validation split function.
 This problem were approached in 3 different ways.
